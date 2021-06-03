@@ -1,50 +1,5 @@
 body{
-	background-color: #131723;
+	background-color: white;
 		text-align: center;
 	color: white;
-}
-.tftable {
-	font-size:12px;color:#333333;width:100%;border-width: 1px;border-color: #a9a9a9;border-collapse: collapse;
-}
-.tftable th {
-	font-size:12px;background-color:#b8b8b8;border-width: 1px;padding: 8px;border-style: solid;border-color: #a9a9a9;text-align:left;
-}
-.tftable tr {
-	background-color:#ffffff;
-}
-.tftable td {
-	font-size:12px;border-width: 1px;padding: 8px;border-style: solid;border-color: #a9a9a9;
-}
-.tftable{
-	text-align: left;
-}
-.photo1{
-    display: flex;
-    text-align: center;
-    justify-content: space-around;
-    margin-top: 5em;
-    align-items: stretch;
-}
-}
-.float{
-	clear: both;
-}
-.defini{
-	    display: flex;
-    align-items: center;
-    justify-content: space-around;
-}
-header{
-	margin-bottom: 5em;
-	margin-top: 3em;
-}
-.tableau{
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: stretch;
-    margin-top: 5em;
-}
-.tiret{
-	width: 100%;
 }
