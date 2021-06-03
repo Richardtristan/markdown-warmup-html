@@ -48,3 +48,11 @@ header{
 .tiret{
 	width: 100%;
 }
+ul{
+	    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: space-around;
+    justify-content: center;
+    align-items: center;
+}
